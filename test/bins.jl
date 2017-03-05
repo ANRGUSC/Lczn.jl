@@ -1,0 +1,10 @@
+@test Lczn.bins(-100, -100:10:-20) == 1
+@test Lczn.bins(-47, -100:10:-20) == 6
+@test Lczn.bins(-46, -100:10:-20) == 6
+@test Lczn.bins(-53, -100:10:-20) == 5
+@test Lczn.bins(-70, -100:10:-20) == 3
+@test Lczn.bins(-61, -100:10:-20) == 4
+@test Lczn.bins(-55, -100:10:-20) == 5
+@test Lczn.bins(-90, -100:10:-20) == 1
+@test Lczn.bins(-33, -100:10:-20) == 7
+@test Lczn.bins(-88, -100:10:-20) == 2
