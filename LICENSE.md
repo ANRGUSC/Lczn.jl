@@ -1,8 +1,9 @@
 Copyright (c) 2016, Autonomous Networks Research Group. All rights reserved.
 
 Developed by:
-Autonomous Networks Research Group (ANRG)
-University of Southern California
+
+Autonomous Networks Research Group (ANRG)  
+University of Southern California  
 http://anrg.usc.edu/
 
 Primary Contributor: Nachikethas A. Jagadeesan
